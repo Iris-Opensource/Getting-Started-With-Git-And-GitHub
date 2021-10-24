@@ -12,3 +12,8 @@ Template:
 **Link to profile** : [urmilkalaria](https://github.com/urmilkalaria) <br />
 **About Me** : <br />
 Hello Guys I am from PES University. I like to know about cool tech stuff. I am looking forward to contribute to some cool projects to OpenSource. I also like to read novels and watch movies. <br />
+
+**Name** : Kanumuri Sri Charan <br />
+**Link to profile** : [SriCharanK2002](https://github.com/SriCharanK2002) <br />
+**About Me** : <br />
+Hey people, I am Sri Charan from PES Unversity, Bangalore. I would say that I have a thirst for knowledge of any kind in the field of science. OpenSource is the way all our favorite apps are devolped, heck there is even an entire OS made up opensource softwares and contributions. And for my personal hobbies, I enjoy watching movies and anime and i really like solve puzzles of any kind<br />
