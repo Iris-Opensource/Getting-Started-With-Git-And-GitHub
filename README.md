@@ -2,7 +2,7 @@
 
 We are Glad to have you onboard for this event.
 
-The current iteration of Tech-Matrix has two subdivisions :
+The current iteration of the event has two subdivisions :
 * [Getting Started With Git and GitHub]()
 * [Hacktoberfest Challenge](https://hacktoberfest.digitalocean.com)
 
