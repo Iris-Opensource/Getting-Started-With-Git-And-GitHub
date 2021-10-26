@@ -63,7 +63,7 @@ Push your changes using the command `git push`:
  #### 7. Submit your Pull request for review
  
  Go to your forked repository on GitHub and click on the `Compare & pull request` button. <br />
- Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is  `<your-username>/Getting-Started` <br/><br />
+ Submit your Pull Request, <br/><br />
  
   ### ✨Congrats ! You just made a contribution ! ✨
    All you have to do now is sit tight and wait for us to merge your PR :)
