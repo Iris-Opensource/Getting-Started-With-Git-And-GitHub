@@ -22,3 +22,8 @@ Hey people, I am Sri Charan from PES Unversity, Bangalore. I would say that I ha
 **Link to profile** : [Pradyuman Kannan](https://github.com/Pradyumankannan) <br />
 **About Me** : <br />
 I am Pradyuman from PES university. I am into computers and programming. I love to play games, watch animes and play football. I am looking forward to working with opensource<br />
+
+**Name** : Shrilaxmi Bhat <br />
+**Link to profile** : [Shrilaxmi Bhat](https://github.com/its-shrilax-me) <br />
+**About Me** : <br />
+Heyy! I am Shrilaxmi, a student currently pursuing my BTech from PES university, majoring in Electronics and Communication Engineering and doing my minors in Computer Science Engineering. I am in my final year of engineering. At present I am exploring my interests into open source and also data analytics and visualization. Looking forward to working with opensource<br />
