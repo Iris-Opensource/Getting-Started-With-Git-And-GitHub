@@ -24,6 +24,12 @@ Hey people, I am Sri Charan from PES Unversity, Bangalore. I would say that I ha
 I am Pradyuman from PES university. I am into computers and programming. I love to play games, watch animes and play football. I am looking forward to working with opensource<br />
 
 
+**Name** : Aditya Rao <br />
+**Link to profile**: [Aditya Rao](https://github.com/DesktopPotato)<br />
+**About Me**: <br />
+I'm Aditya Rao. I like working around with software and to genuinely know how much freedom any user has to attain knowledge about the field of computer science. Looking forward to work with open source softwares in general. <br />
+
+
 **Name** : Shishir Hegde <br />
 **Link to profile** : [shishir@0611](https://github.com/shishir0611) <br />
 **About Me** : <br />
@@ -33,4 +39,5 @@ Hello, I am Shishir Hegde from PES University. Hoping to make some great contrib
 **Link to profile** : [Shrilaxmi Bhat](https://github.com/its-shrilax-me) <br />
 **About Me** : <br />
 Heyy! I am Shrilaxmi, a student currently pursuing my BTech from PES university, majoring in Electronics and Communication Engineering and doing my minors in Computer Science Engineering. I am in my final year of engineering. At present I am exploring my interests into open source and also data analytics and visualization. Looking forward to working with opensource<br />
+
 
