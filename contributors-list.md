@@ -22,3 +22,8 @@ Hey people, I am Sri Charan from PES Unversity, Bangalore. I would say that I ha
 **Link to profile** : [Pradyuman Kannan](https://github.com/Pradyumankannan) <br />
 **About Me** : <br />
 I am Pradyuman from PES university. I am into computers and programming. I love to play games, watch animes and play football. I am looking forward to working with opensource<br />
+
+**Name** : Aditya Rao <br />
+**Link to profile**: [Aditya Rao](https://github.com/DesktopPotato)<br />
+**About Me**: <br />
+I'm Aditya Rao. I like working around with software and to genuinely know how much freedom any user has to attain knowledge about the field of computer science. Looking forward to work with open source softwares in general. <br />
