@@ -22,3 +22,8 @@ Hey people, I am Sri Charan from PES Unversity, Bangalore. I would say that I ha
 **Link to profile** : [Pradyuman Kannan](https://github.com/Pradyumankannan) <br />
 **About Me** : <br />
 I am Pradyuman from PES university. I am into computers and programming. I love to play games, watch animes and play football. I am looking forward to working with opensource<br />
+
+**Name** : Shashank K Handa <br />
+**Link to profile** : [Shashank-Handa](https://github.com/Shashank-Handa) <br />
+**About Me** : <br />
+Hello, I am Shashank Handa from PES University. I hope to make some good contributions :)<br />
